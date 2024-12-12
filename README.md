@@ -1,13 +1,11 @@
-# Real-time Intrusion Detection Web App
-<b>Project III</b><br>
-<b>Nguyễn Việt Hoàng - 20194434</b><br>
+# Real-time Intrusion Detection System
 ## About
-* Real-time Intrusion Detection System implementing Machine Learning. 
+* AI based Real-time Intrusion Detection System. 
 
 * We combine Supervised learning (RF) for detecting known attacks from CICIDS 2018 & SCVIC-APT datasets, and Unsupervised Learning (AE) for anomaly detection.
 
 * System descriptive diagram:
-![image](https://github.com/HoangNV2001/Real-time-IDS/assets/72451372/78e0b74c-9db6-4bf5-8591-6d7aa8247b22)
+
 
 ## Requirements:
 1. Windows OS.
@@ -41,9 +39,13 @@ Web app address: [http://localhost:5000](http://localhost:5000)
 ## Demo GUI
 * Main page, overview of real-time captured flows:
 
-![image](https://github.com/HoangNV2001/Real-time-IDS/assets/72451372/90b42a1a-e2cb-4445-8036-4504e9c7c4ba)
+
+![Screenshot 2024-11-26 065927](https://github.com/user-attachments/assets/9c1bf486-ac1b-4642-b8db-e8eb2fe01012)
 
 * Flow detail page:
 
-![image](https://github.com/HoangNV2001/Real-time-IDS/assets/72451372/c6ce1c6b-a006-461e-8872-d889abd69d0d)
+
+![Screenshot 2024-12-12 151758](https://github.com/user-attachments/assets/b35304ef-90e6-4e73-9c89-f92a24b924fc)
+
+![Screenshot 2024-12-12 151739](https://github.com/user-attachments/assets/374496fc-0542-4919-b111-536bd2e3983c)
 
